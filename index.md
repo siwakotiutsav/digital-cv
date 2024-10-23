@@ -1,6 +1,7 @@
 # Utsav Siwakoti
 
-![Utsav Siwakoti](./utsav_image.png)
+<img src="./utsav_image.png" alt="Utsav Siwakoti" width="200"/>
+
 
 **Date of Birth:** 30/10/1996  
 **Nationality:** Nepalese  
