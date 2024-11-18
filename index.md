@@ -6,7 +6,7 @@
 **Date of Birth:** 30/10/1996  
 **Nationality:** Nepalese  
 **Email:** siwakotiutsav@gmail.com  
-**Address:** 1727 W 24TH ST, 66046, LAWRENCE, United States
+**Address:** 66046, LAWRENCE, United States
 
 
 ---
