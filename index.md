@@ -21,7 +21,13 @@
 
 ### Visiting Faculty (Lecturer)  
 **Kathmandu University**  
-*September 2023 – Present* | Kavre Dhulikhel, Nepal  
+*September 2023 – August 2024* | Kavre Dhulikhel, Nepal  
+
+### LaTeX Trainer  
+**Nepal Research and Collaboration Center**  
+*July 2024 – September 2024* | Kathmandu, Nepal  
+- Conducted workshops on LaTeX for academic writing. 
+
 
 ### LaTeX Trainer  
 **Nepal Research and Collaboration Center**  
@@ -30,7 +36,7 @@
 
 ### Science Teacher  
 **Vinayak Siksha Niketan**  
-*November 2018 – Present* | Bhaktapur, Nepal  
+*November 2018 – August 2024* | Bhaktapur, Nepal  
 
 
 ### Presenter (Weekly Astronomy Show)  
@@ -92,7 +98,7 @@
 - Guided citizen science campaigns, contributing to the provisional discovery of the main-belt asteroid **2020 SW65**.
 
 ### Master's Thesis (Paper In Preparation)  
-- **Title:** FP & TF Distances of Elliptical & Spiral Galaxies Observed with IFS  
+- **Title:** FP & TF Distances of Elliptical & Spiral Galaxies Observed with IFS  (Paper in prep.)
 
 
 ### Bachelor's Thesis (Poster Presentation)  
